@@ -64,15 +64,14 @@ If you want to build this DLL Injector from the source code:
 
 ## Credits
 
-This simple DLL Injector was created by [Your Name/Nickname].
-
+This simple DLL Injector was created by ÇINAR/darkside3232
 ## License
 
 [Choose a license for your project, e.g., MIT License, Apache License 2.0, or state that it is for personal use only.]
 
 ---
 
-**Remember to replace the bracketed placeholders** (`[Your Name/Nickname]`, `[Choose a license]`, etc.) with your actual information.
+**Remember to replace the bracketed placeholders** ÇINAR/darkside3232, `mit licence`, etc.) with your actual information.
 
 **If you did NOT include the memory searching and replacing features, be sure to remove those sections from the README.**
 
