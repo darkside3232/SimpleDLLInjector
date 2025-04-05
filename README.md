@@ -71,7 +71,7 @@ This simple DLL Injector was created by ÇINAR/darkside3232
 
 ---
 
-**Remember to replace the bracketed placeholders** ÇINAR/darkside3232, `mit licence`, etc.) with your actual information.
+**Remember to replace the bracketed placeholders** ÇINAR/darkside3232, `MIT license`, etc.) with your actual information.
 
 **If you did NOT include the memory searching and replacing features, be sure to remove those sections from the README.**
 
