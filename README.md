@@ -29,18 +29,7 @@ This is a simple and basic DLL injector tool for Windows. It allows you to injec
     * Once a process is selected and a DLL path is provided, click the "Inject" button.
     * The tool will attempt to inject the specified DLL into the target process.
     * **Note:** Success or failure of the injection might not always be explicitly indicated by this simple tool. Check the behavior of the target process.
-5.  **(Optional - If you included memory features) Memory Searching:**
-    * Select a target process.
-    * Enter an integer value you want to search for in the "Search Value" field.
-    * Click the "Search" button.
-    * Any memory addresses containing that integer value in the selected process will be listed below.
-6.  **(Optional - If you included memory features) Memory Replacing:**
-    * Select a target process and perform a memory search first.
-    * Select an address from the "Found Addresses" list.
-    * Enter the new integer value you want to write in the "Replace Value" field.
-    * Click the "Replace" button.
-    * The integer value at the selected address in the target process will be overwritten.
-
+      
 ## Building from Source
 
 If you want to build this DLL Injector from the source code:
